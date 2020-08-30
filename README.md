@@ -1,4 +1,4 @@
-# 2048-Game-The-Terminal-Way    
+# ALPHAMERGE: 2048-Game-The-Terminal-Way    
 Popular 2048 game built to be played entirely on terminal OOP way
 
 ## Objective
@@ -6,20 +6,20 @@ Build 2048 game to be played entirely on terminal. Take user input. Give options
 
 ## Why? 
 Why not! 
-OOP + ASCII coding + and a fun game to boot. Why ever not.
+OOP + ASCII coding + and a fun game to boot. Why ever not. :).
 
-**Choosing Alphabets over 2048**
+## Choosing Alphabets over 2048
 Step 1: Replace numbers with alphabets, because they are tricky to handle in terminal. Imagine having to code both 2 and 2048 to occupy the same square space on terminal. That means the block size has to be 4 times that was the smallest block 2048. Terminals aren't big enough to display this.
 
 Now alphabets can be coded to occupy exactly the same number of pixels vertically and horizontally. And the merge actions 2 + 2 = 4 will now become A + A = B.
 And whats more, we can have 25, twice as many merges as 2048 game which only has 11 until we hit 2048. But fo rthe sake of this game we keep it to 11 merges, until we merge to the alphabet 'K'.
 
-**Playing the game**
+## Playing the game
 Make sure you have all three .py files are copied into the folder.
 On your choice of terminal navigate to the folder and run alphamerge.py
 
 
-**ASCII art**
+## ASCII art
 There is some beatiful ASCII art on the internet. But I designed my own because I need very specific size, shape and coloring-optionality. It was also fun.
 As we are using letters A-K we will design all of these and one dummy letter (Z) for blank boxes.
 Chek the full list of characters and art in letters_art.py.
@@ -46,6 +46,8 @@ B:
             
 """
 ```
+## Code blocks
+
 **alphamerge.py**
 This py file is the game start code. This has code blocks for initializing a user, gathering his/her preferences, initiazing a board and calling the board code.
 
