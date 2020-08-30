@@ -1,10 +1,10 @@
-# 2048-Game-The-Terminal-Way
+# 2048-Game-The-Terminal-Way    
 Popular 2048 game built to be played entirely on terminal OOP way
 
-**Objective**
+**Objective**    
 Build 2048 game to be played entirely on terminal. Take user input. Give options. Keep track of win/losses.
 
-**Why?** 
+**Why?**     
 Why not! 
 OOP + ASCII coding + and a fun game to boot. Why ever not.
 
