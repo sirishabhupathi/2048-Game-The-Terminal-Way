@@ -19,7 +19,7 @@ Make sure you have all three .py files are copied into the folder.
 On your choice of terminal navigate to the folder and run alphamerge.py
 The game will prompt you for your name, instructions and preferences and once all options are entered, it will display initial board with two A's randomly placed.
 
-image/game_initialization.PNG
+![](image/game_initialization.PNG)
 
 
 ## ASCII art
