@@ -24,6 +24,7 @@ There is some beatiful ASCII art on the internet. But I designed my own because 
 As we are using letters A-K we will design all of these and one dummy letter (Z) for blank boxes.
 Chek the full list of characters and art in letters_art.py.
 
+```
 A:
 """
             
@@ -44,7 +45,7 @@ B:
   #######   
             
 """
-
+```
 **alphamerge.py**
 This py file is the game start code. This has code blocks for initializing a user, gathering his/her preferences, initiazing a board and calling the board code.
 
