@@ -19,8 +19,13 @@ Make sure you have all three .py files are copied into the folder.
 On your choice of terminal navigate to the folder and run alphamerge.py
 The game will prompt you for your name, instructions and preferences and once all options are entered, it will display initial board with two A's randomly placed.
 
-![](image/game_initialization.PNG)
+![](image/game_moves_2.PNG)
 
+Enter your moves l/r/u/d and the tiles will move as indicated and slide/merge and new tiles will appear.
+This will continue until either tiles merge unti 'K' (equivalent of 2048 tile) or no more moves are possible.
+Tiles have nice colors differentiating them from each other, so they are easy to recognize visually.
+
+![](image/game_initialization.PNG)
 
 ## ASCII art
 There is some beatiful ASCII art on the internet. But I designed my own because I need very specific size, shape and coloring-optionality. It was also fun.
